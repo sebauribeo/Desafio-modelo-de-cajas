@@ -1,0 +1,94 @@
+body {
+    margin: 50px;
+    
+}
+
+.españa{
+    background-color: red;
+    width: 300px;
+    height: 200px;
+    border: 1px solid;
+    margin: 50px;
+}
+.españa1 {
+    background-color: yellow;
+    width: 300px;
+    height: 90px;
+    margin-top: 50px;
+}
+
+
+
+.dinamarca {
+    background-color: red;
+    width: 300px;
+    height: 200px;
+    border: 1px solid;
+    margin: 50px;
+    
+}
+.dinamarca1 {
+    background-color: white;
+    width: 20px;
+    height: 200px;
+    margin-left: 90px;
+}
+.dinamarca2 {
+    background-color: white;
+    width: 300px;
+    height: 20px;
+    position: absolute;
+    margin-top: -110px;
+}
+
+
+.emiratos {
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    border: 1px solid;
+    margin: 50px;
+}
+.emiratos1 {
+    background-color: black;
+    width: 225px;
+    height: 66px;
+    position: absolute;
+    margin-left: 75px;
+    margin-top: 135px;
+
+    
+    
+}
+.emiratos2 {
+    background-color: green;
+    width: 225px;
+    height: 66px;
+    position: absolute;
+    margin-left: 75px;
+    
+}
+.emiratos3 {
+    background-color: red;
+    width: 75px;
+    height: 200px;
+    position: absolute;
+}
+
+.japon {
+    background-color: white;
+    width: 300px;
+    height: 200px;
+    border: 1px solid;
+    margin: 50px;
+
+}
+
+.japon-1 {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 100px;
+    margin-top: 55px;
+}

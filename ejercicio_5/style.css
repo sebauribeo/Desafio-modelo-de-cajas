@@ -1,0 +1,18 @@
+.ejercicio5 {
+
+    margin: 100px;
+
+}
+.ejercicio5-item {
+
+    width: 400px;
+    height: 400px;
+    
+}
+.ejercicio5-ribbon {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    margin-top: -355px;
+    margin-left: 38px;
+}
